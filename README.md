@@ -10,6 +10,13 @@ yarn
 yarn start
 ```
 
+ou
+
+```
+npm i
+npm run start
+```
+
 Incialmente serão retornados os items de impressão pendentes no formato JSON.
 
 # Descrição
